@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SyedzainulAbideenMustafa
+- 👋 Hi, I’m @SyedzainulAbdinMustafa
 - 👀 I’m interested in ...Artificial Intelligence, Buissness analyst, Data science, and software
 - 🌱 I’m currently learning ...Data science and BSCS from University of People California
 - 💞️ I’m looking to collaborate on ...Software companies 
